@@ -1006,7 +1006,7 @@ export default function App() {
             >
               <Brain className="w-6 h-6 text-emerald-400" />
               <h1 className="font-bold text-lg bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-                EduQuest
+                Sineps
               </h1>
             </div>
             <div className="flex items-center gap-2 bg-slate-800 px-3 py-1.5 rounded-full border border-slate-700">
@@ -1249,7 +1249,7 @@ export default function App() {
                       Piagam Kelulusan
                     </h1>
                     <p className="text-[10px] md:text-xs font-medium text-slate-500 mb-6 uppercase tracking-widest print:text-lg print:mb-12">
-                      EduQuest Master Class
+                      Sineps Master Class
                     </p>
 
                     <p className="text-sm md:text-base text-slate-600 mb-2 italic print:text-2xl print:mb-4">
@@ -1280,7 +1280,7 @@ export default function App() {
                       <div className="text-center">
                         <div className="w-20 md:w-28 h-0.5 bg-slate-400 mb-2 mx-auto print:w-48 print:h-1 print:mb-4"></div>
                         <p className="text-[10px] md:text-xs font-bold text-slate-500 uppercase print:text-base">
-                          Instruktur EduQuest
+                          Instruktur Sineps
                         </p>
                       </div>
 
@@ -1543,7 +1543,7 @@ export default function App() {
                   id: "first_step",
                   title: "Pelajar Baru",
                   icon: <Zap className="w-6 h-6" />,
-                  desc: "Memulai petualangan EduQuest",
+                  desc: "Memulai petualangan Sineps",
                   color: "text-indigo-400",
                   bg: "bg-indigo-500/20",
                   achieved: true,
@@ -1636,7 +1636,7 @@ export default function App() {
                   id: "xp_5500",
                   title: "Grand Scholar",
                   icon: <Award className="w-6 h-6" />,
-                  desc: "Legenda EduQuest: 5500 XP",
+                  desc: "Legenda Sineps: 5500 XP",
                   color: "text-pink-400",
                   bg: "bg-pink-500/20",
                   achieved: true,
