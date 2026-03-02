@@ -1022,7 +1022,7 @@ export default function App() {
           {currentView === "profile_setup" && (
             <div className="p-6 flex flex-col items-center justify-center h-full text-center">
               <div className="w-20 h-20 bg-blue-500/20 rounded-full flex items-center justify-center mb-6 border border-blue-500/50">
-                <User className="w-10 h-10 text-blue-400" />
+                <BookOpen className="w-10 h-10 text-blue-400" />
               </div>
               <h2 className="text-2xl font-bold mb-2">Selamat Datang!</h2>
               <p className="text-slate-400 text-sm mb-8">
