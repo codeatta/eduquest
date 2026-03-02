@@ -1026,7 +1026,8 @@ export default function App() {
               </div>
               <h2 className="text-2xl font-bold mb-2">Selamat Datang!</h2>
               <p className="text-slate-400 text-sm mb-8">
-                Siapa nama panggilanmu untuk petualangan ini?
+                SINEPS – Sistem Interaktif Nalar Algoritma & Pemrograman Siswa
+                Siapa nama karaktermu untuk petualangan ini?
               </p>
 
               <input
